@@ -1,2 +1,2 @@
-# THICC-BULLET-PHROGGERS
-THICC BULLETS BE DED IN DIS THICC BOI PROJECT
+# p5.play-boilerplate
+Boiler plate for p5.play
